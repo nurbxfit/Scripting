@@ -1,2 +1,2 @@
 # Scripting
-Bunch of script wrote for fun,while learning
+Bunch of scripts wrote for fun,while learning
